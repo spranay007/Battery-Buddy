@@ -1,0 +1,6 @@
+C:\Users\spran\source\repos\Serial_modified\Serial_1\obj\Debug\Serial_1.Form1.resources
+C:\Users\spran\source\repos\Serial_modified\Serial_1\obj\Debug\Serial_1.Form2.resources
+C:\Users\spran\source\repos\Serial_modified\Serial_1\obj\Debug\BatteryBuddy.Properties.Resources.resources
+C:\Users\spran\source\repos\Serial_modified\Serial_1\obj\Debug\Serial_modified.csproj.GenerateResource.cache
+C:\Users\spran\source\repos\Serial_modified\Serial_1\obj\Debug\Serial_modified.csproj.CoreCompileInputs.cache
+C:\Users\spran\source\repos\Serial_modified\Serial_1\obj\Debug\BatteryBuddy.Form1.resources

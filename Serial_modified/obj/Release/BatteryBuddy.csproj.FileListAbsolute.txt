@@ -1,0 +1,10 @@
+C:\Users\spran\source\repos\Serial_modified\Serial_1\bin\Release\BatteryBuddy.exe.config
+C:\Users\spran\source\repos\Serial_modified\Serial_1\bin\Release\BatteryBuddy.exe
+C:\Users\spran\source\repos\Serial_modified\Serial_1\bin\Release\BatteryBuddy.pdb
+C:\Users\spran\source\repos\Serial_modified\Serial_1\obj\Release\BatteryBuddy.Form1.resources
+C:\Users\spran\source\repos\Serial_modified\Serial_1\obj\Release\BatteryBuddy.Form2.resources
+C:\Users\spran\source\repos\Serial_modified\Serial_1\obj\Release\BatteryBuddy.Properties.Resources.resources
+C:\Users\spran\source\repos\Serial_modified\Serial_1\obj\Release\BatteryBuddy.csproj.GenerateResource.cache
+C:\Users\spran\source\repos\Serial_modified\Serial_1\obj\Release\BatteryBuddy.csproj.CoreCompileInputs.cache
+C:\Users\spran\source\repos\Serial_modified\Serial_1\obj\Release\BatteryBuddy.exe
+C:\Users\spran\source\repos\Serial_modified\Serial_1\obj\Release\BatteryBuddy.pdb
